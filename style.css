@@ -1,0 +1,86 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  text-align: center;
+}
+h1 {
+   color: rgb(231, 184, 224);
+}
+main h2 {
+color: rgb(231, 184, 224);
+background-color:  #ffeeff;
+border-radius: 250px;
+text-align: center;
+}
+header {
+  background-color: rgb(248, 245, 248);
+  border-radius: 20px;
+  text-align: center;
+}
+main {
+text-align: center;
+}
+footer {
+  background-color: rgb(248, 245, 248);
+  border-radius: 50px;
+}
+.cutery {
+  height: 100px;
+}
+nav {
+  border: 2px solid  rgb(223, 186, 217);
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border-radius: 30px;
+}
+.cutebutton
+{
+  font-size: 30px;
+  margin: 20px 10px;
+  background-color: rgb(235, 201, 230);
+  color: rgb(255, 240, 254);
+  text-decoration: none;
+  border-radius: 40px;
+}
+.imgcore {
+  text-align: left;
+  height: 250px; 
+  width: 250px;
+  border: 3px solid  rgb(202, 180, 198);
+  border-radius: 20px;
+  margin: 10px 10px;
+}
+p {
+  font-size:50px;
+  color: rgb(223, 183, 216);
+  background-color: rgb(248, 245, 248);
+  border-radius: 90px;
+}
+.imgcute {
+  height: 50px; 
+  width: 50px;
+}
+table {
+  border: 3px solid rgb(223, 186, 217);
+  background-color: rgb(248, 245, 248);
+  border-radius: 10px;
+  color:rgb(238, 172, 226);
+}
+.ava {
+  height: 110px; 
+  width: 110px;
+  border: 3px solid  rgb(202, 180, 198);
+  border-radius: 100px;
+}
+.likeit {
+  height: 100px; 
+  width: 380px;
+}
+.logocute {
+  height: 50px; 
+  width: 50px;
+}
+.h2cute {
+color: rgb(231, 184, 224);
+text-align: center;
+}
